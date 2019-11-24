@@ -24,7 +24,6 @@ def test_setup():
     driver.close()
     driver.quit()
 
-
 # Given Steps
 @given('the YellowPages home page is displayed')
 def launch_Homepage(test_setup):

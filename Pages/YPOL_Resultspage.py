@@ -13,5 +13,6 @@ class ResultsPage:
         assert len(links_div.find_elements_by_xpath('//div')) > 0
         # Check search phrase
         search_input = self.driver.find_element_by_id('what')
+
         # assert search_input.get_attribute('value') == phrase
         print('test complete' 'value')
