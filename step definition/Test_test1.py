@@ -6,8 +6,6 @@ import Constants.constants as c
 from Pages.YPOL_Homepage import HomePage
 from Pages.YPOL_Resultspage import ResultsPage
 
-
-
 # Scenarios
 scenarios('../feature/Test1.feature')
 
