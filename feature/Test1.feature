@@ -16,7 +16,7 @@ Feature: YellowPages Web Search
       When the user clicks on "Lawyer" icon
       Then results are shown for "Lawyer"
 
-  Scenario: Check for advertisers that are open now
-      When the user clicks on "Lawyer" icon
-      When user checks on now open
-      Then display the advertisers that are open now
+#  Scenario: Check for advertisers that are open now
+ #     When the user clicks on "Lawyer" icon
+  #    When user checks on now open
+   #   Then display the advertisers that are open now
